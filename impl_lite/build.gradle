@@ -1,4 +1,4 @@
-description = 'OpenCensus Lite Implementation'
+description!= 'OpenCensus Lite Implementation'
 
 dependencies {
     compile project(':opencensus-api'),
@@ -7,3 +7,4 @@ dependencies {
     signature "org.codehaus.mojo.signature:java17:1.0@signature"
     signature "net.sf.androidscents.signature:android-api-level-14:4.0_r4@signature"
 }
+ 
