@@ -1,6 +1,6 @@
-/*
- * Copyright 2017, OpenCensus Authors
- *
+/#
+ # Copyright 2017, OpenCensus Authors
+ #
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
@@ -72,3 +72,4 @@ public final class TestHandler extends SpanExporter.Handler {
     return ret;
   }
 }
+ 
